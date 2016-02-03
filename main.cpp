@@ -6,7 +6,7 @@ int main() {
     //Variables to hold the stock purchase and selling info.
 
     int StocksPurchased, StocksSold;
-    float Commission, TotalPurchase, TotalSell, TotalBuyCommission, TotalSellCommission,PurchasePrice, SellingPrice, Profit;
+    double Commission, TotalPurchase, TotalSell, TotalBuyCommission, TotalSellCommission,PurchasePrice, SellingPrice, Profit;
 
     //Point in which user inputs variable date.
 
